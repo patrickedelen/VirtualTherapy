@@ -4,4 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+  - enabled: 1
+    path: Assets/Scenes/Fence.unity
+  - enabled: 1
+    path: Assets/Scenes/trees.unity
+  - enabled: 1
+    path: Assets/Scenes/Candles.unity
+  - enabled: 1
+    path: Assets/Scenes/cards.unity
